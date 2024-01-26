@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="./resources/hi.gif" width="30px">, I'm Pravin Mane</h1>
-- 💻 I’m a web application developer <img src=".resources/developer.gif" alt="developer" width="30px">...<br>
+- 💻 I’m a web application developer <img src=".resources/developer.gif" alt="developer" width="30px" style:"display:inline-block">...<br>
 - 🔭 I’m currently working with Angular and .NET Core...<br>
 - 🤓 Always learning new things.<br>
 - 📫 Feel free to reach me on linkedIn(https://www.linkedin.com/in/pravinmane1/) ,
