@@ -1,3 +1,4 @@
+![logo](./resources/banner.png)
 <h1 align="center">Hi <img src="./resources/hi.gif" width="30px">, I'm Pravin Mane</h1>
 <div>- 💻 I’m a web application developer <img src="./resources/developer.gif" alt="developer" style="height:15px;width:20px">...</div>
 <div>- 🔭 I’m currently working with Angular and .NET Core...</div>
