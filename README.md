@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @pravinmane1
-- 💻 I’m a web application developer...
-- 🔭 I’m currently working with Angular and .NET Core...
-- 🤓 Always learning new things.
+<h1 align="center">Hi <img src="./resources/hi.gif" width="30px">, I'm Pravin Mane</h1>
+- 💻 I’m a web application developer <img src=".resources/developer.gif">...<br>
+- 🔭 I’m currently working with Angular and .NET Core...<br>
+- 🤓 Always learning new things.<br>
 - 📫 Feel free to reach me on linkedIn(https://www.linkedin.com/in/pravinmane1/) ,
-                 Twitter(https://twitter.com/pravin_mane1)...
-- 📄 Know about my <a href="" target="blank">experience</a>
+                 Twitter(https://twitter.com/pravin_mane1)...<br>
+- 📄 Know about my <a href="./Hi.gif" target="blank">experience</a><br>
 
 <!---
 pravinmane1/pravinmane1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
