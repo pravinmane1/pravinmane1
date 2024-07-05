@@ -1,4 +1,4 @@
-<img src="./resources/banner.png">
+<!--<img src="./resources/banner.png">-->
 <h1 align="center">Hi <img src="./resources/hi.gif" width="30px">, I'm Pravin Mane</h1>
 <div>- 💻 I’m a web application developer <img src="./resources/developer.gif" alt="developer" style="height:15px;width:20px">...</div></br>
 <div>- 🔭 I’m currently working with Angular, MongoDB, TypeScript, JavaScript, C#, .NET Core along with Azure cloud services...</div></br>
